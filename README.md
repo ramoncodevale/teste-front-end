@@ -21,7 +21,7 @@ Projeto desenvolvido em **React** e **TypeScript** conforme o layout do Figma.
 1. Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/ramoncodevale/teste-front-end/tree/main>
 
 2. Entrar na pasta do projeto
 cd nome-do-projeto
